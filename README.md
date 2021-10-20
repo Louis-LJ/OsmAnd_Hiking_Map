@@ -6,9 +6,9 @@
 ## Installer le rendu
 Applicable sur Android et iOS.
 
-- Télécharger le fichier [Randonnée.render.xml](https://raw.githubusercontent.com/Hades1503/OsmAnd_Hiking_Map/main/Hiking.render.xml)
-  - **Depuis un ordinateur** : Faites un clic droit sur [ce lien](https://github.com/Hades1503/OsmAnd_Hiking_Map/raw/main/Hiking.render.xml) → <kbd><samp>Enregistrer la cible du lien sous...</samp></kbd>.
-  - **Depuis un smartphone** : Faites un appui long sur [ce lien](https://github.com/Hades1503/OsmAnd_Hiking_Map/raw/main/Hiking.render.xml) → <kbd><samp>Télécharger la cible du lien</samp></kbd>.<br>
+- Télécharger le fichier [Randonnée.render.xml](https://raw.githubusercontent.com/Hades1503/OsmAnd_Hiking_Map/main/Randonn%C3%A9e.render.xml)
+  - **Depuis un ordinateur** : Faites un clic droit sur [ce lien](https://github.com/Hades1503/OsmAnd_Hiking_Map/raw/main/Randonn%C3%A9e.render.xml) → <kbd><samp>Enregistrer la cible du lien sous...</samp></kbd>.
+  - **Depuis un smartphone** : Faites un appui long sur [ce lien](https://github.com/Hades1503/OsmAnd_Hiking_Map/raw/main/Randonn%C3%A9e.render.xml) → <kbd><samp>Télécharger la cible du lien</samp></kbd>.<br>
     <br>
     *Tutoriel réalisé sous le navigateur <a href="https://www.mozilla.org/fr/firefox/new/">Firefox</a> – les termes utilisés peuvent être différents avec un autre.*<br>
     <br>
