@@ -1,4 +1,12 @@
 # OsmAnd Hiking Map
+<br>
+<br>
+
+> [!WARNING]
+> Le rendu n'est plus maintenu ici, vous pouvez retrouver le rendu à cette nouvelle adresse:<br>
+> https://github.com/OsmAnd-Rendering/Hiking
+<br>
+<br>
 
 - 🇫🇷 **[Français](README.md)**<br>
 🇬🇧 [English](README-EN.md)
